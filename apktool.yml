@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.bandainamcoent.aktposjp_2018-05-08.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/data_boot/and/hash_arm
+- assets/data_boot/and/com/sound/voice/vo_akari.sdad
+- assets/data_boot/and/com/sound/voice/vo_ichigo.sdad
+- assets/data_boot/and/com/sound/voice/vo_yume.sdad
+- assets/data_boot/and/jpn/texture/ui/ui_close.tlad
+- assets/data_boot/and/jpn/texture/ui/ui_dlg_common.tlad
+- assets/data_boot/and/jpn/texture/ui/ui_dlg_startup.tlad
+- assets/data_boot/and/jpn/texture/ui/ui_splash.tlad
+- assets/data_boot/and/jpn/texture/ui/ui_splash_btn.tlad
+- assets/data_boot/and/jpn/texture/ui/ui_webview.tlad
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '16'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  NDK_LICENSES: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '26'
+  versionName: 1.14.0
