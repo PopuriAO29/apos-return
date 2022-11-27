@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/lr_rate_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lr_rate_button" />
+    <Button android:id="@id/lr_remind_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lr_remind_button" />
+    <Button android:id="@id/lr_cancel_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lr_cancel_button" />
+    <Button android:id="@id/lr_report_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lr_report_button" />
+</LinearLayout>
