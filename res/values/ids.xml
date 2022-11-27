@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="mobage_ad_dashboard_footer" />
+    <item type="id" name="mobage_ad_footer_back" />
+    <item type="id" name="mobage_ad_footer_reload" />
+    <item type="id" name="mobage_ad_footer_back_to_game_icon" />
+    <item type="id" name="mobage_ad_footer_back_to_game" />
+    <item type="id" name="mobage_ad_dashboard_webview_holder" />
+    <item type="id" name="mobage_ad_dashboard_progress_view" />
+    <item type="id" name="lr_rate_button" />
+    <item type="id" name="lr_remind_button" />
+    <item type="id" name="lr_cancel_button" />
+    <item type="id" name="lr_report_button" />
+</resources>
