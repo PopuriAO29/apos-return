@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: com.bandainamcoent.aktposjp_2018-05-08.apk
+apkFileName: com.bandainamcoent.aktposjp_2022-11-27.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -32,4 +32,4 @@ usesFramework:
 version: 2.6.1
 versionInfo:
   versionCode: '26'
-  versionName: 1.14.0
+  versionName: 1.14.3
