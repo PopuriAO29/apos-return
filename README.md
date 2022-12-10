@@ -29,7 +29,4 @@ I cannot provide iOS version at the moment, sorry. Only Android asset I've been 
    <dd>
    Michelpuri#7783
    </dd>
-   <dd>
-   https://discordapp.com/invite/hu6BzVxfaG
-   </dd>
 </dl>
