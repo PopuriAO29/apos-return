@@ -13,3 +13,23 @@ I cannot provide iOS version at the moment, sorry. Only Android asset I've been 
 - [ ] Repack the Photokatsu new version (1.14.0) like Puchiguru Love Live Private Server (pokenesos) made.
 - [ ] Fix the issue while trying create/load account Photokatsu (includes linked account from Twitter/LINE).
 - [ ] Improve Android Version 8 through 13.
+
+## Contact
+
+<dl>
+   <dt>
+   email
+   </dt>
+   <dd>
+   popuriao22 [at] hotmail dot com
+   </dd>
+   <dt>
+   Discord
+   </dt>
+   <dd>
+   Michelpuri#7783
+   </dd>
+   <dd>
+   https://discordapp.com/invite/hu6BzVxfaG
+   </dd>
+</dl>
