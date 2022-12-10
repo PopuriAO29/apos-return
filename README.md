@@ -1,7 +1,7 @@
 # Photokatsu Return
 A Repository for returning Photokatsu game.
 
-This is sometimes codenamed: RePhotokatsu!, the Reverse-Enginerred Aikatsu! Photo on Stage!
+This is sometimes codenamed: RePhotokatsu!, the Reverse-Enginerred Aikatsu! Photo on Stage!<br/>
 Alternate name title: Aikatsu! Photo on Stage! The Return
 
 I cannot provide iOS version at the moment, sorry. Only Android asset I've been extracted using APKtool.
