@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Environment and game (please complete the following information):**
- - Game Version [e.g. 1.12.0
+ - Game Version [e.g. 1.12.0]
  - Android Version: [e.g. Android 6 or Android 7]
  - Phone Model: [e.g. Mito A10 or Xiaomi Redmi 4X]
 
