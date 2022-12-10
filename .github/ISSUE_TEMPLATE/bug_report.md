@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Environment and game (please complete the following information):**
  - Game Version [e.g. 1.12.0
  - Android Version: [e.g. Android 6 or Android 7]
- - Phone Model: [e.g. Intel i5-4460, AMD Ryzen 3600]
+ - Phone Model: [e.g. Mito A10 or Xiaomi Redmi 4X]
 
 **Additional context**
 Add any other context about the problem here.
