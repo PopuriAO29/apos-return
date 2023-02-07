@@ -52,12 +52,15 @@
     <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
     <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
-    <string name="app_name">フォトカツ!</string>
-    <string name="lr_title">フォトカツ！評価のお願い☆</string>
+    <string name="app_name">Photokatsu!</string>
+    <string name="lr_title">Photokatsu! Evaluation Request☆</string>
     <string name="lr_app_message">"フォトカツ！で遊んでくれてありがとう！
 ぜひフォトカツ！の評価にご協力をお願いします☆"</string>
     <string name="lr_rate_button">フォトカツ！を評価する</string>
-    <string name="lr_cancel_button">いえ、結構です</string>
-    <string name="lr_remind_button">後でする</string>
-    <string name="lr_report_button">不具合を報告する</string>
+    <string name="lr_cancel_button">No thanks</string>
+    <string name="lr_remind_button">Remind me later</string>
+    <string name="lr_report_button">Report bug</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="cancel">Cancel</string>
 </resources>
