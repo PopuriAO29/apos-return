@@ -16,6 +16,10 @@ I cannot provide iOS version at the moment, sorry. Only Android asset I've been 
 - [ ] Fix the issue while trying create/load account Photokatsu (includes linked account from Twitter/LINE).
 - [ ] Improve Android Version 8 through 14.
 
+## Alternative names
+* Aikatsu! Photo on Stage!! Restored
+* Aikatsu! Photo on Stage!! Rewritten
+
 ## Contact
 
 <dl>
