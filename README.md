@@ -10,7 +10,7 @@ I cannot provide iOS version at the moment, sorry. Only Android asset I've been 
 
 ## To-do list
 - [x] Upload the Version 1.12.0 base
-- [ ] Root the Photokatsu assets that was already installed on Android phone.
+- [ ] Root the Photokatsu assets that was already installed on Android phone. (if not, jailbreak on iOS phone).
 - [ ] Determine about the asset how to open this (such as vo_ichigo.sdad).
 - [ ] Repack the Photokatsu new version (1.14.0) like Puchiguru Love Live Private Server (pokenesos) made.
 - [ ] Fix the issue while trying create/load account Photokatsu (includes linked account from Twitter/LINE).
