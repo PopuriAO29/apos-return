@@ -1,8 +1,6 @@
 # Photokatsu Return
 ![](https://repository-images.githubusercontent.com/514186071/c84309ce-ee93-4dd7-b92a-a70c6ef6b336)
 
-Archived due for violation from WordPress. Will be restored later in the future.
-
 A Repository for returning Photokatsu game.
 
 This is sometimes codenamed: RePhotokatsu!, the Reverse-Enginerred Aikatsu! Photo on Stage!<br/>
