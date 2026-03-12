@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accept">Accepter</string>
+    <string name="decline">Déclin</string>
     <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
     <string name="common_google_play_services_notification_needs_update_title">Une application demande la mise à jour des services Google Play.</string>
     <string name="common_android_wear_notification_needs_update_text">"%1$s nécessite une mise à jour de l'application Android Wear."</string>
@@ -32,4 +34,7 @@
     <string name="common_google_play_services_api_unavailable_text">"%1$s nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez contacter le développeur pour obtenir de l'aide."</string>
     <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
     <string name="common_google_play_services_sign_in_failed_text">Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre.</string>
+    <string name="yes_text">Oui</string>
+    <string name="no_text">Non</string>
+    <string name="cancel">Annuler</string>
 </resources>
