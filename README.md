@@ -19,6 +19,7 @@ I cannot provide iOS version at the moment, sorry. Only Android asset I've been 
 ## Alternative names
 * Aikatsu! Photo on Stage!! Restored
 * Aikatsu! Photo on Stage!! Rewritten
+* Aikatsu! Photo on Stage!! Resurrected
 
 ## Contact
 
